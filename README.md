@@ -28,8 +28,5 @@ Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos
   <a href="https://www.linkedin.com/in/viniciusandredasilva/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
   <a href="https://www.instagram.com/viniciusilva9/" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
   <a href="mailto:viniciusandredasilva.2021@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-  <a href="mailto:viniciusandrevestibular@outlook.com" target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blanck"></a>
-  
-![Snake animation](https://github.com/Viniciusilva9/Viniciusilva9/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="mailto:viniciusandrevestibular@outlook.com" target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blanck"></a> 
 </div>
