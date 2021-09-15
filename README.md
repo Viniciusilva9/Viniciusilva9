@@ -4,7 +4,7 @@ Tenho 22 e sou estudante de programação e tenho como objetivo é desempenhar m
 
 Amante de tecnologias, estou sempre buscando conhecimento onde agregue valores profissionais e pessoais.
 
-Criativo, autodidata, disposto, focado, comunicativo, focado e resiliente.
+Criativo, autodidata, disposto, focado, comunicativo e resiliente.
   
 Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos.
 
