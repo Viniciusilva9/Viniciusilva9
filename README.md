@@ -20,7 +20,6 @@ Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos
 <div>
   <a href="https://github.com/Viniciusilva9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusilva9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusilva9&layout=compact&langs_count=16&theme=github_dark"/> 
 </div>
   
