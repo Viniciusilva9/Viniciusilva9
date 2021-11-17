@@ -15,7 +15,7 @@ Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos
   <img align="center" alt="darllen-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br><br>
+<br>
 
 <div>
   <a href="https://github.com/Viniciusilva9">
