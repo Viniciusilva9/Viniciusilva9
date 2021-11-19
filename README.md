@@ -1,12 +1,14 @@
-### Olá, meu nome é Vinicius Silva e sou estudante de Back-end 
+### Olá, meu nome é Vinicius Silva e sou estudante de Back-end <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-Tenho 22 e sou estudante de programação e tenho como objetivo é desempenhar minha função com excelência.
+- 🧑 Tenho 22 e sou estudante de programação e tenho como objetivo é desempenhar minha função com excelência.
 
-Amante de tecnologias, estou sempre buscando conhecimento onde agregue valores profissionais e pessoais.
+- :computer: Amante de tecnologias, estou sempre buscando conhecimento onde agregue valores profissionais e pessoais.
 
-Criativo, autodidata, disposto, focado, comunicativo e resiliente.
+- 🔎 Criativo, autodidata, disposto, focado, comunicativo e resiliente.
   
-Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos.
+- ✏️ Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos.
+
+## ⚔ Principais Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="darllen-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -17,7 +19,7 @@ Tudo que faço é com amor pois não tem nada melhor do que fazer o que gostamos
 
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/Viniciusilva9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusilva9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusilva9&layout=compact&langs_count=16&theme=github_dark"/> 
