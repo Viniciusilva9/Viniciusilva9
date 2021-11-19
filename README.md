@@ -1,5 +1,7 @@
 ### Olá, meu nome é Vinicius Silva e sou estudante de Back-end <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 - 🧑 Tenho 22 e sou estudante de programação e tenho como objetivo é desempenhar minha função com excelência.
 
 - :computer: Amante de tecnologias, estou sempre buscando conhecimento onde agregue valores profissionais e pessoais.
